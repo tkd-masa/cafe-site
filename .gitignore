@@ -1,0 +1,6 @@
+#bak配下のファイルを除外
+bak/
+
+#calendar配下のファイルを除外
+calendar/
+
