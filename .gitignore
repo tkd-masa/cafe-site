@@ -4,3 +4,10 @@ bak/
 #calendar配下のファイルを除外
 calendar/
 
+/node_modules
+
+.prettierrc.yml
+
+package.json
+
+yarn.lock
